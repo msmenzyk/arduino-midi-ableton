@@ -1,6 +1,5 @@
 # Arduino MIDI Volume Control
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 This project is an Arduino-based MIDI volume control system that uses two buttons to increase or decrease the volume. The system sends MIDI Control Change messages to adjust the volume level dynamically.
 
@@ -50,4 +49,4 @@ This project is an Arduino-based MIDI volume control system that uses two button
 This project is open-source and available under the MIT License. Feel free to modify and distribute as needed.
 
 ## Author
-Mariusz.Smenzyk@MusicTechLab.io
+mariusz@mtl.dev
